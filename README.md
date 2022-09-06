@@ -9,7 +9,7 @@
  * @Anthor: liangshuang15
  * @Description: 
  * @Date: 2022-09-06 11:47:21
- * @LastEditTime: 2022-09-06 15:15:22
+ * @LastEditTime: 2022-09-06 15:20:48
  * @FilePath: /vscode-debug/README.md
 -->
 # vscode-debug
@@ -23,6 +23,6 @@ vscode内置的debugger支持node.js运行时以及javascript,typescript、其�
 创建一个demo
 创建launch.json，大多数使用场景都会选择创建launch.json，因为vscode会在当前的工作空间中本地保存这些配置信息，具体保存在.vscode中;
 - 创建launch
-![image](https://code.visualstudio.com/assets/docs/editor/debugging/launch-configuration.png)
+![image](image/launch-configuration.png)
 - 选择调试器
 ![image](https://code.visualstudio.com/assets/docs/editor/debugging/debug-environments.png)
