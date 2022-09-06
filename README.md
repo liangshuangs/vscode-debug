@@ -9,7 +9,7 @@
  * @Anthor: liangshuang15
  * @Description: 
  * @Date: 2022-09-06 11:47:21
- * @LastEditTime: 2022-09-06 15:20:48
+ * @LastEditTime: 2022-09-06 15:41:08
  * @FilePath: /vscode-debug/README.md
 -->
 # vscode-debug
@@ -26,3 +26,8 @@ vscode内置的debugger支持node.js运行时以及javascript,typescript、其�
 ![image](image/launch-configuration.png)
 - 选择调试器
 ![image](https://code.visualstudio.com/assets/docs/editor/debugging/debug-environments.png)
+- 调试配置
+![image](image/luanchconfig.png)
+- 如何调试
+打开一个js文件，比如app.js，然后点击左上角的运行符号，即可进行调试
+![image](image/debug1.png)
